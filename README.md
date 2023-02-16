@@ -6,14 +6,10 @@
 Hello, I'm Bipul. My core skills are based on JavaScript and I prefer to do most of the work with JavaScript. I am skilled in MERN stack. I am familiar with using project management tools like GitHub, Firebase and Figma. Apart from these my personal interests include learning new things, being social and more and taking initiatives. I am currently looking forward to working on the backend.
 # Here is some projects_
 ### [Mongodb-CRUD Example](https://github.com/bipul-hossein/Mongodb-CRUD/blob/main/README.md)
-
 ### [How to Use Context Api](https://github.com/bipul-hossein/How-to-use-Context)
-
 ### [Create a Api Server and How To Deploy an Express API on Vercel.](https://github.com/bipul-hossein/frist-api-deploy)
-
-
-#### [Create an Amazing GitHub Profile](https://www.youtube.com/watch?v=5MJq-1lprlU)
-#### [GitHub Profile README Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/)
+### [Create an Amazing GitHub Profile](https://www.youtube.com/watch?v=5MJq-1lprlU)
+### [GitHub Profile README Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nirob.753/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gias-uddin-4167181b5/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/19423230/gias-uddin)[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/GiasUdd83043416) 
