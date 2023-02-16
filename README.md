@@ -3,8 +3,7 @@
 ##### Web Devoloper
 
 # 💫 About Me:
-Hello, I’m Bipul. My core skill is based on javaScript<br>and I love to do most of the things with javaScript.I am Skilled At MERN Stack. I have a strong passion<br>for learning & implementing new web technologies and standards. I’m currently studying software engineering at Yunnan University, China. 
-
+Hello, I'm Bipul. My core skills are based on JavaScript and I prefer to do most of the work with JavaScript. I am skilled in MERN stack. I am familiar with using project management tools like GitHub, Firebase and Figma. Apart from these my personal interests include learning new things, being social and more and taking initiatives. I am currently looking forward to working on the backend.
 # Here is some projects_
 ### [Mongodb-CRUD Example](https://github.com/bipul-hossein/Mongodb-CRUD/blob/main/README.md)
 
