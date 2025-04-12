@@ -1,9 +1,13 @@
 ## Hi there 👋 I am Bipul Hossain
-##### Web Developer
+##### Full-Stack Developer
 
 
 # 💫 About Me:
-Hello, I'm Bipul. My core skills are based on JavaScript and I prefer to do most of the work with JavaScript. I am skilled in MERN stack. I am familiar with using project management tools like GitHub, Firebase and Figma. Apart from these my personal interests include learning new things, being social and more and taking initiatives. I am currently looking forward to working on the backend.
+I'm a JavaScript enthusiast specializing in building modern web applications across the stack. With experience in both frontend and backend development, I enjoy creating seamless user experiences powered by robust server-side logic. Currently deepening my expertise in backend architecture while staying sharp with frontend technologies.
+
+🔹 **Core Strengths**: Full-Stack JavaScript (React + Node.js) | API Development | Database Design  
+🔹 **Passions**: Problem-solving | Clean Code | Continuous Learning  
+🔹 **Current Focus**: Building scalable backend systems with Node.js and PostgreSQL 
 
 
 ## 🌐 Socials Link:
